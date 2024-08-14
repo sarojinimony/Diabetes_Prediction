@@ -1,1 +1,1 @@
-# D_Prediction
+ Diabetes Prediction System
